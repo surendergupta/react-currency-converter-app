@@ -2,7 +2,7 @@
 
 A responsive, interactive currency converter built using **React**, powered by **ExchangeRate-API**, with user-friendly UI enhancements including loading spinners and toast notifications.
 
-<!-- 🌐 [Live Demo](https://your-vercel-deployment-link.vercel.app/)  -->
+> 🔗 **Live Demo:** [react-currency-converter-app-one.vercel.app](https://react-currency-converter-app-one.vercel.app/) 
 
 ---
 
@@ -93,7 +93,7 @@ No API key required — it uses the free ExchangeRate-API public endpoint.
 ---
 
 ## 📜 License
-This project is open source and available under the MIT License.
+This project is open source and available under the [MIT License](LICENSE).
 
 ## 🙌 Acknowledgements
 - ExchangeRate-API
